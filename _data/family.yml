@@ -1,0 +1,27 @@
+- is: Mi madre
+  name: Ana Moreno
+  icon: icon1
+  photo: photos/ana.jpg
+  text: |
+    Mira, es mi mamá, ella es la que me trajo al mundo.
+
+    Me quiere una pechá, y yo a ella también.
+
+    ¡Es la mujer más maravillosa de la galaxia!
+  link:
+    title: '<i class="fab fa-instagram"></i> Instagram'
+    url: 'https://www.instagram.com/anichimoca/'
+
+- is: Mi padre
+  name: Fran Núñez
+  photo: photos/fran.jpg
+  icon: icon2
+  text: |
+    Este es mi papá; dice que la vida le ha hecho *crack*.
+
+    Pero le he robado el corazón y juntos nos divertimos mucho.
+
+    Es el mejor, de mayor quiero ser como él.
+  link:
+    title: '<i class="fab fa-instagram"></i> Instagram'
+    url: 'https://www.instagram.com/furantastic/'

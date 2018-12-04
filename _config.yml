@@ -1,0 +1,14 @@
+# Site configuration
+
+url: https://fraskelito.me
+baseurl: ''
+
+remote_theme: ClockworkTangerine/hello-baby
+
+title: ¡Bienvenido al mundo, Fraskelito!
+short_title: Fraskelito
+description: >-
+  Página web con las mejores fotos de Fraskelito.
+
+# Build settings
+markdown: kramdown

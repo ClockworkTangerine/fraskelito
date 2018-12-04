@@ -1,0 +1,21 @@
+/* Custom CSS */
+
+.brand_name {
+  font-size: 90px;
+}
+
+.brand_slogan {
+  font-size: 70px;
+}
+
+.text-secondary p,
+.well p,
+.text-primary-dark p {
+  font-size: 150%;
+}
+
+.text-secondary em,
+.well em,
+.text-primary-dark em {
+  font-style: italic;
+}
